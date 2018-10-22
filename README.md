@@ -38,7 +38,7 @@ a encontrar.
 - [Cómo trabajar con pipes en Angular](https://blog.ng-classroom.com/blog/angular/trabajando-con-pipes/)
 - [Seguridad en Angular, protegiendo vistas](https://frostqui.github.io/angular-seguridad)
 
-### Anagular avanzado
+### Angular nivel avanzado
 - [Testing en Angula con Angular clir](https://nnodes.com/blog/2017/testing-en-angular2-utilizando-angular-cli)
 - [Tests unitarios, de integración y de aceptación en Angular con Jasmine, Karma y Protractor](https://www.adictosaltrabajo.com/2017/06/13/tests-unitarios-de-integracion-y-de-aceptacion-en-angular-con-jasmine-karma-y-protractor/)
 - [Introducción al Testing con Angular](https://medium.com/@jorgeucano/introducci%C3%B3n-al-testing-en-angular-da415ef8c47)
