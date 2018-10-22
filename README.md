@@ -1,4 +1,4 @@
-## Recursos para aprender ReactJS en español
+## Recursos para aprender Angular en español
 
 > Colección de recursos para aprender [Angular](https://angular.io/). 
 
