@@ -42,13 +42,16 @@ Los recursos no siguen una ordenación en especial, simplemente está ordenador 
 - [Tipos de pipes en Angular](https://medium.com/@KevinBueno_/tipos-de-pipes-en-angular-d736079491b1)
 - [Seguridad en Angular, protegiendo vistas](https://frostqui.github.io/angular-seguridad)
 - [Cómo crear y utilizar un validador en Angular](https://pablolazaro.github.io/2016/11/09/como-crear-y-utilizar-un-validador-en-angular-2/)
+- [Validaciones dinámicas en formularios](https://blog.ng-classroom.com/blog/ionic2/validations/)
 - [Validación de formularios](https://code.i-harness.com/es/docs/angular/guide/form-validation)
 - [Autenticación de Usuarios](https://blog.ng-classroom.com/blog/angular/clase-3-feed/)
 - [Flujo de datos entre componentes](https://academia-binaria.com/flujo-de-datos-entre-componentes-angular/)
 - [Angular - Controlando componentes hijos con ViewChild y ViewChildren
 ](https://pablolazaro.github.io/2016/10/13/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren/)
+- [https://blog.ng-classroom.com/blog/ionic2/ngrx-charts-bars/](https://blog.ng-classroom.com/blog/ionic2/ngrx-charts-bars/)
 - [Animaciones en Angular 4: SlideUp, SlideDown](https://www.uno-de-piera.com/animaciones-angular-4-slideup-slidedown/)
-- [https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/](https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/)
+- [Vigilancia y seguridad en Angular](https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/)
+- [Actualizando tu App a Angular 6](https://blog.ng-classroom.com/blog/angular/Angular-upgrade/)
 
 ### Angular nivel avanzado
 - [Testing en Angula con Angular clir](https://nnodes.com/blog/2017/testing-en-angular2-utilizando-angular-cli)
@@ -68,3 +71,5 @@ Los recursos no siguen una ordenación en especial, simplemente está ordenador 
 - [Angular aplicación de tareas desde 0](https://www.youtube.com/watch?v=6wVolJfXn1c)
 - [Angular material](https://www.youtube.com/watch?v=6wVolJfXn1c)
 - [Angular 5 y LocalStorage CRUD | Aplicación desde Cero](https://www.youtube.com/watch?v=rB4uT0P6UF8)
+
+Comparte este repositorio para que entre todos hagamos una lista con muchos recursos gratis y en español para Angular.
