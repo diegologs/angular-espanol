@@ -31,7 +31,7 @@ Los recursos no siguen una ordenación en especial, simplemente está ordenador 
 - [Angular y su sistema de vistas y bindings](https://frostqui.github.io/angular-vistas-bindings)
 - [Páginas y rutas con Angular](https://academia-binaria.com/paginas-y-rutas-angular-spa/)
 
-### Recursos nivel intermedio
+### Angular nivel intermedio
 - [Angular rutas y componentes](https://carlosazaustre.es/angular-2-rutas-y-componentes/)
 - [Servicios con Angular](https://desarrolloweb.com/articulos/servicios-angular.html)
 - [Cómo crear un servicio con Angular](https://blog.ng-classroom.com/blog/angular/Angular-Crear-Servicio/)
@@ -39,6 +39,7 @@ Los recursos no siguen una ordenación en especial, simplemente está ordenador 
 - [Cómo crear un login y cómo mantener la sesión iniciada](https://frostqui.github.io/angular-login-sesion)
 - [Cómo crear Login y autenticación con Angular](https://justdigital.agency/login-y-autenticacion-con-angular/)
 - [Cómo trabajar con pipes en Angular](https://blog.ng-classroom.com/blog/angular/trabajando-con-pipes/)
+- [Tipos de pipes en Angular](https://medium.com/@KevinBueno_/tipos-de-pipes-en-angular-d736079491b1)
 - [Seguridad en Angular, protegiendo vistas](https://frostqui.github.io/angular-seguridad)
 - [Cómo crear y utilizar un validador en Angular](https://pablolazaro.github.io/2016/11/09/como-crear-y-utilizar-un-validador-en-angular-2/)
 - [Validación de formularios](https://code.i-harness.com/es/docs/angular/guide/form-validation)
@@ -46,6 +47,8 @@ Los recursos no siguen una ordenación en especial, simplemente está ordenador 
 - [Flujo de datos entre componentes](https://academia-binaria.com/flujo-de-datos-entre-componentes-angular/)
 - [Angular - Controlando componentes hijos con ViewChild y ViewChildren
 ](https://pablolazaro.github.io/2016/10/13/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren/)
+- [Animaciones en Angular 4: SlideUp, SlideDown](https://www.uno-de-piera.com/animaciones-angular-4-slideup-slidedown/)
+- [https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/](https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/)
 
 ### Angular nivel avanzado
 - [Testing en Angula con Angular clir](https://nnodes.com/blog/2017/testing-en-angular2-utilizando-angular-cli)
@@ -55,7 +58,7 @@ Los recursos no siguen una ordenación en especial, simplemente está ordenador 
 - [Optimizar Angular para aumentar la velocidad y reducir tiempos de carga](https://frostqui.github.io/optimizar-angular)
 - [Angular: cómo desplegar en producción mediante Angular CLI ](https://medium.com/@yonem9/angular-c%C3%B3mo-desplegar-en-producci%C3%B3n-mediante-angular-cli-y-repaso-de-los-conceptos-b%C3%A1sicos-ef3133696512)
 - [Haciendo el despliegue de una aplicación Angular (Angular-CLI) a producción con Docker y Nginx](https://medium.com/@asfo/haciendo-el-despliegue-de-una-aplicaci%C3%B3n-angular-angular-cli-a-producci%C3%B3n-con-docker-y-nginx-e1c43d174f2d)
-- [https://academia-binaria.com/el-patron-redux-con-ngrx-en-angular/](https://academia-binaria.com/el-patron-redux-con-ngrx-en-angular/)
+- [El patrón Redux con NgRx](https://academia-binaria.com/el-patron-redux-con-ngrx-en-angular/)
 
 ### Vídeos
 
