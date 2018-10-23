@@ -2,6 +2,10 @@
 
 > Colección de recursos para aprender [Angular](https://angular.io/). 
 
+<p align="center">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="100">
+</p
+
 Angular es un framework para la creación de páginas web SPA mantenido por Google. Es uno de los frameworks más populares para el desarrollo de páginas web
 en la parte front. Empezó siendo una librería Javascript pero actualmente usa Typescript, un lenguaje parecido a Java con tipos que añade funcionalidad a Javascript.
 
