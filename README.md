@@ -48,7 +48,7 @@ Los recursos no siguen una ordenación en especial, simplemente está ordenador 
 - [Flujo de datos entre componentes](https://academia-binaria.com/flujo-de-datos-entre-componentes-angular/)
 - [Angular - Controlando componentes hijos con ViewChild y ViewChildren
 ](https://pablolazaro.github.io/2016/10/13/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren/)
-- [https://blog.ng-classroom.com/blog/ionic2/ngrx-charts-bars/](https://blog.ng-classroom.com/blog/ionic2/ngrx-charts-bars/)
+- [Gráficas con Ngrx Charts](https://blog.ng-classroom.com/blog/ionic2/ngrx-charts-bars/)
 - [Animaciones en Angular 4: SlideUp, SlideDown](https://www.uno-de-piera.com/animaciones-angular-4-slideup-slidedown/)
 - [Vigilancia y seguridad en Angular](https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/)
 - [Actualizando tu App a Angular 6](https://blog.ng-classroom.com/blog/angular/Angular-upgrade/)
