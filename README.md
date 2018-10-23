@@ -13,6 +13,8 @@ quieres hacer un cambio puedes enviar un pull request a este repositorio y esta�
 **ATENCIÓN** Para que no haya confusión en este repositorio solo voy a poner recursos de Angular 2 en adelante. Si buscas recursos sobre AngularJS aquí no los vas
 a encontrar.
 
+Los recursos no siguen una ordenación en especial, simplemente está ordenador por nivel.
+
 ### Introducción y primeros pasos con Angular
 
 - [Qúe es Angular y hello world](https://frostqui.github.io/introduccion-instalacion-angular)
@@ -23,6 +25,7 @@ a encontrar.
 - [Creando componentes en Angular 2](https://unprogramador.com/angular-4-componentes/)
 - [Angular inicio rápido con Angular cli y Angular Material](https://medium.com/williambastidasblog/angular-5-inicio-r%C3%A1pido-con-angular-cli-y-angular-material-e52e4ab0df3a) 
 - [Guía del principiante para Angular](https://code.tutsplus.com/es/tutorials/beginners-guide-to-angular-4-components--cms-29674)
+- [Base para una aplicación Angular](https://academia-binaria.com/base-aplicacion-angular/)
 - [Introducción al sistema de routing en Angular](https://desarrolloweb.com/articulos/introduccion-sistema-routing-angular.html)
 - [Inyección de dependencias en Angular](https://www.uno-de-piera.com/inyeccion-de-dependencias-en-angular-2/)
 - [Angular y su sistema de vistas y bindings](https://frostqui.github.io/angular-vistas-bindings)
@@ -37,6 +40,12 @@ a encontrar.
 - [Cómo crear Login y autenticación con Angular](https://justdigital.agency/login-y-autenticacion-con-angular/)
 - [Cómo trabajar con pipes en Angular](https://blog.ng-classroom.com/blog/angular/trabajando-con-pipes/)
 - [Seguridad en Angular, protegiendo vistas](https://frostqui.github.io/angular-seguridad)
+- [Cómo crear y utilizar un validador en Angular](https://pablolazaro.github.io/2016/11/09/como-crear-y-utilizar-un-validador-en-angular-2/)
+- [Validación de formularios](https://code.i-harness.com/es/docs/angular/guide/form-validation)
+- [Autenticación de Usuarios](https://blog.ng-classroom.com/blog/angular/clase-3-feed/)
+- [Flujo de datos entre componentes](https://academia-binaria.com/flujo-de-datos-entre-componentes-angular/)
+- [Angular - Controlando componentes hijos con ViewChild y ViewChildren
+](https://pablolazaro.github.io/2016/10/13/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren/)
 
 ### Angular nivel avanzado
 - [Testing en Angula con Angular clir](https://nnodes.com/blog/2017/testing-en-angular2-utilizando-angular-cli)
@@ -46,6 +55,7 @@ a encontrar.
 - [Optimizar Angular para aumentar la velocidad y reducir tiempos de carga](https://frostqui.github.io/optimizar-angular)
 - [Angular: cómo desplegar en producción mediante Angular CLI ](https://medium.com/@yonem9/angular-c%C3%B3mo-desplegar-en-producci%C3%B3n-mediante-angular-cli-y-repaso-de-los-conceptos-b%C3%A1sicos-ef3133696512)
 - [Haciendo el despliegue de una aplicación Angular (Angular-CLI) a producción con Docker y Nginx](https://medium.com/@asfo/haciendo-el-despliegue-de-una-aplicaci%C3%B3n-angular-angular-cli-a-producci%C3%B3n-con-docker-y-nginx-e1c43d174f2d)
+- [https://academia-binaria.com/el-patron-redux-con-ngrx-en-angular/](https://academia-binaria.com/el-patron-redux-con-ngrx-en-angular/)
 
 ### Vídeos
 
@@ -54,3 +64,4 @@ a encontrar.
 - [Curso fundamentos de Angular](https://www.youtube.com/watch?v=mog8EKQX5HI&list=PLPl81lqbj-4JaLibWSbTVrYTyHDadppKq)
 - [Angular aplicación de tareas desde 0](https://www.youtube.com/watch?v=6wVolJfXn1c)
 - [Angular material](https://www.youtube.com/watch?v=6wVolJfXn1c)
+- [Angular 5 y LocalStorage CRUD | Aplicación desde Cero](https://www.youtube.com/watch?v=rB4uT0P6UF8)
