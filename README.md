@@ -3,17 +3,15 @@
 > Colección de recursos para aprender [Angular](https://angular.io/). 
 
 Angular es un framework para la creación de páginas web SPA mantenido por Google. Es uno de los frameworks más populares para el desarrollo de páginas web
-en la parte front. Empezó siendo una librería Javascript pero actualmente usa Typescript, un lenguaje parecido a Java con tipos que luego se compila 
-a Javascript.
+en la parte front. Empezó siendo una librería Javascript pero actualmente usa Typescript, un lenguaje parecido a Java con tipos que añade funcionalidad a Javascript.
 
 En este repositorio encontrarás una serie de recursos, artículos, guías, tutoriales, etc para el aprendizaje de Angular gratis y en español. La idea surgió 
 la ver el repositiorio de [react-español](https://github.com/jlobos/react-espanol). si quieres contribuir en el repositorio añadiendo más material o simplemente
-quieres hacer un cambio puedes enviar un pull request a este repositorio y estaŕe encantado de revisarlo, o también me puedes enviar un mensaje a mi twitter (@Frostq_)
+quieres hacer un cambio puedes enviar un pull request a este repositorio y estaré encantado de revisarlo, o también me puedes enviar un mensaje a mi twitter (@Frostq_)
 
-**ATENCIÓN** Para que no haya confusión en este repositorio solo voy a poner recursos de Angular 2 en adelante. Si buscas recursos sobre AngularJS aquí no los vas
-a encontrar.
+**ATENCIÓN** Para que no haya confusión en este repositorio solo voy a poner recursos de Angular 2 en adelante. Si buscas recursos sobre AngularJS aquí no los vas a encontrar.
 
-Los recursos no siguen una ordenación en especial, simplemente está ordenador por nivel.
+Los recursos no siguen una ordenación en especial, simplemente por nivel.
 
 ### Introducción y primeros pasos con Angular
 
