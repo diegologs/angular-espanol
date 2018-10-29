@@ -54,9 +54,10 @@ Los recursos no siguen una ordenación en especial, simplemente por nivel.
 - [Animaciones en Angular 4: SlideUp, SlideDown](https://www.uno-de-piera.com/animaciones-angular-4-slideup-slidedown/)
 - [Vigilancia y seguridad en Angular](https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/)
 - [Actualizando tu App a Angular 6](https://blog.ng-classroom.com/blog/angular/Angular-upgrade/)
+- [Angular Material - Librería de componentes material design](https://frostqui.github.io/angular-material)
 
 ### Angular nivel avanzado
-- [Testing en Angula con Angular clir](https://nnodes.com/blog/2017/testing-en-angular2-utilizando-angular-cli)
+- [Testing en Angular con Angular cli](https://nnodes.com/blog/2017/testing-en-angular2-utilizando-angular-cli)
 - [Tests unitarios, de integración y de aceptación en Angular con Jasmine, Karma y Protractor](https://www.adictosaltrabajo.com/2017/06/13/tests-unitarios-de-integracion-y-de-aceptacion-en-angular-con-jasmine-karma-y-protractor/)
 - [Introducción al Testing con Angular](https://medium.com/@jorgeucano/introducci%C3%B3n-al-testing-en-angular-da415ef8c47)
 - [Formularios reactivos con Angular](https://academia-binaria.com/formularios-reactivos-con-Angular/)
