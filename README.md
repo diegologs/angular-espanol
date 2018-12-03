@@ -55,6 +55,7 @@ Los recursos no siguen una ordenación en especial, simplemente por nivel.
 - [Vigilancia y seguridad en Angular](https://academia-binaria.com/vigilancia-y-seguridad-en-Angular/)
 - [Actualizando tu App a Angular 6](https://blog.ng-classroom.com/blog/angular/Angular-upgrade/)
 - [Angular Material - Librería de componentes material design](https://frostqui.github.io/angular-material)
+- [Angular: Desarrollando extensiones para Chrome](https://codeangular.org/2018/12/03/extensiones-chrome-angular/)
 
 ### Angular nivel avanzado
 - [Testing en Angular con Angular cli](https://nnodes.com/blog/2017/testing-en-angular2-utilizando-angular-cli)
