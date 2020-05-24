@@ -32,6 +32,10 @@ Los recursos no siguen una ordenación en especial, simplemente por nivel.
 - [Inyección de dependencias en Angular](https://www.uno-de-piera.com/inyeccion-de-dependencias-en-angular-2/)
 - [Angular y su sistema de vistas y bindings](https://frostqui.github.io/angular-vistas-bindings)
 - [Páginas y rutas con Angular](https://academia-binaria.com/paginas-y-rutas-angular-spa/)
+- [Videos básicos de Angular y SPA](https://aotaduy.github.io/area204/tags/#angular)
+- [Angular- Arquitectura y como crear un proyecto](https://aotaduy.github.io/area204/educaci%C3%B3n/2020/04/02/angular-intro.html)
+- [Angular Templates](https://aotaduy.github.io/area204/educaci%C3%B3n/2020/05/03/angular-templates.html)
+- [Angular componentes](https://aotaduy.github.io/area204/educaci%C3%B3n/2020/05/22/angular-componentes.html)
 
 ### Angular nivel intermedio
 - [Angular rutas y componentes](https://carlosazaustre.es/angular-2-rutas-y-componentes/)
